@@ -1,1 +1,2 @@
-# machine-learning
+#machine learning
+implementing machine learning algorithms
